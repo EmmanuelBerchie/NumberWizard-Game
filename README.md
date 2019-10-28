@@ -1,2 +1,2 @@
 # NumberWizard-Game
-Number Guessing Game 
+Screenshots of game in asset folder
