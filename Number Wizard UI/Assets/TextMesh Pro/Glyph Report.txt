@@ -1,0 +1,31 @@
+Font: Congratulations DEMO  Style: Regular
+Point Size: 93   SP/PD Ratio: 5.4%
+
+Characters included: 80/99
+Missing characters: 19
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 48	Hex: 30	Char [0]
+ID: 49	Hex: 31	Char [1]
+ID: 50	Hex: 32	Char [2]
+ID: 51	Hex: 33	Char [3]
+ID: 52	Hex: 34	Char [4]
+ID: 53	Hex: 35	Char [5]
+ID: 54	Hex: 36	Char [6]
+ID: 55	Hex: 37	Char [7]
+ID: 56	Hex: 38	Char [8]
+ID: 57	Hex: 39	Char [9]
+ID: 94	Hex: 5E	Char [^]
+ID: 96	Hex: 60	Char [`]
+ID: 123	Hex: 7B	Char [{]
+ID: 125	Hex: 7D	Char [}]
+ID: 126	Hex: 7E	Char [~]
+ID: 160	Hex: A0	Char [ ]
+ID: 8203	Hex: 200B	Char [​]
+ID: 8230	Hex: 2026	Char […]
+ID: 9633	Hex: 25A1	Char [□]
+
+Characters excluded from packing:
+----------------------------------------
